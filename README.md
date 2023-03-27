@@ -35,11 +35,11 @@
 
 * **圖1**
 <br/>
-![Image text](https://github.com/hazely8/SuperTrend-QQE-MOD-A-V2/blob/main/img/%E6%88%AA%E5%9C%961.png)
+![Image](https://raw.githubusercontent.com/hazely8/SuperTrend-QQE-MOD-A-V2/main/img/%E6%88%AA%E5%9C%961.png)
 
 * **圖2**
 <br/>
-![image](https://github.com/hazely8/SuperTrend-QQE-MOD-A-V2/blob/main/img/%E6%88%AA%E5%9C%962.png)
+![image](https://github.com/hazely8/SuperTrend-QQE-MOD-A-V2/blob/main/img/%E6%88%AA%E5%9C%962.png?raw=true)
 
 
 * **圖3:策略績效圖**
