@@ -34,7 +34,6 @@
 ---
 
 * **圖1**
-<br/>
 ![Image](https://github.com/hazely8/SuperTrend-QQE-MOD-A-V2/blob/main/img/pic1.png)
 
 * **圖2**
