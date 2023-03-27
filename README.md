@@ -2,7 +2,7 @@
 
 - [策略參考影片來源](https://www.youtube.com/watch?v=00UMGUof8lo&ab_channel=YuchiTrader)
 
-說明
+說明(參考圖1~圖3)
 ---
 **本策略使用三項指標來做為進單依據**
 * SuperTrend
@@ -35,17 +35,17 @@
 
 * **圖1**
 <br/>
-![image](https://i.imgur.com/0gtHFUQ.png)
+![image](https://github.com/hazely8/SuperTrend-QQE-MOD-A-V2/blob/main/img/%E6%88%AA%E5%9C%961.png)
 
 * **圖2**
 <br/>
-![image](https://i.imgur.com/yCXo0iB.png)
+![image](https://github.com/hazely8/SuperTrend-QQE-MOD-A-V2/blob/main/img/%E6%88%AA%E5%9C%962.png)
 
 
 * **圖3:策略績效圖**
 <br/>
-![image](https://i.imgur.com/k4TclM1.png)
+![image](https://github.com/hazely8/SuperTrend-QQE-MOD-A-V2/blob/main/img/%E6%88%AA%E5%9C%963.png)
 
 * **圖4:控制項(可調整各項參數以及選擇是否使用各項指標做為交易條件)**
 <br/>
-![image](https://i.imgur.com/0LvZrmb.png)
+![image](https://github.com/hazely8/SuperTrend-QQE-MOD-A-V2/blob/main/img/%E6%88%AA%E5%9C%964.png)
