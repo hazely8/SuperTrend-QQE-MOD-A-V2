@@ -2,9 +2,9 @@
 
 - [策略參考影片來源](https://www.youtube.com/watch?v=00UMGUof8lo&ab_channel=YuchiTrader)
 
-說明(參考圖1~圖3)
+說明
 ---
-**本策略使用三項指標來做為進單依據**
+**本策略使用三項指標來做為進單依據(參考圖1~圖3)**
 * SuperTrend
 * QQE_MOD
 * A-V2
