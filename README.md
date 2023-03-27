@@ -44,4 +44,6 @@
 ![image](https://github.com/hazely8/SuperTrend-QQE-MOD-A-V2/blob/main/img/pic3.png)
 
 * **圖4:控制項(可調整各項參數以及選擇是否使用各項指標做為交易條件)**
+<br/>
+
 ![image](https://github.com/hazely8/SuperTrend-QQE-MOD-A-V2/blob/main/img/pic4.png)
