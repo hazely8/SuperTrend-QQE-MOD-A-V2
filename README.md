@@ -37,14 +37,14 @@
 ![Image](https://github.com/hazely8/SuperTrend-QQE-MOD-A-V2/blob/main/img/pic1.png)
 
 * **圖2**
-<br/>
-![image](https://github.com/hazely8/SuperTrend-QQE-MOD-A-V2/blob/main/img/%E6%88%AA%E5%9C%962.png?raw=true)
+![image](https://github.com/hazely8/SuperTrend-QQE-MOD-A-V2/blob/main/img/pic2.png)
 
 
 * **圖3:策略績效圖**
-<br/>
-![image](https://github.com/hazely8/SuperTrend-QQE-MOD-A-V2/blob/main/img/%E6%88%AA%E5%9C%963.png)
+![image](https://github.com/hazely8/SuperTrend-QQE-MOD-A-V2/blob/main/img/pic3.png)
 
 * **圖4:控制項(可調整各項參數以及選擇是否使用各項指標做為交易條件)**
+
 <br/>
-![image](https://github.com/hazely8/SuperTrend-QQE-MOD-A-V2/blob/main/img/%E6%88%AA%E5%9C%964.png)
+
+![image](https://github.com/hazely8/SuperTrend-QQE-MOD-A-V2/blob/main/img/pic4.png)
