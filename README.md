@@ -35,17 +35,17 @@
 
 * **圖1**
 <br/>
-![](https://i.imgur.com/0gtHFUQ.png)
+![image](https://i.imgur.com/0gtHFUQ.png)
 
 * **圖2**
 <br/>
-![](https://i.imgur.com/yCXo0iB.png)
+![image](https://i.imgur.com/yCXo0iB.png)
 
 
 * **圖3:策略績效圖**
 <br/>
-![](https://i.imgur.com/k4TclM1.png)
+![image](https://i.imgur.com/k4TclM1.png)
 
 * **圖4:控制項(可調整各項參數以及選擇是否使用各項指標做為交易條件)**
 <br/>
-![](https://i.imgur.com/0LvZrmb.png)
+![image](https://i.imgur.com/0LvZrmb.png)
